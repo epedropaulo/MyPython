@@ -16,4 +16,4 @@ Nome | Descrição
 [05 - POO, testes unitários](https://github.com/epedropaulo/MyPython/tree/main/05-%20POO%2C%20testes%20unitários)| Em construção
 [06 - Módulo Tkinter, gráficos](https://github.com/epedropaulo/MyPython/tree/main/06%20-%20Módulo%20Tkinter%2C%20gráficos)| Em construção 
 [07 - API's](https://github.com/epedropaulo/MyPython/tree/main/07%20-%20API's)| Em construção
-[08 - Extras](https://github.com/epedropaulo/MyPython/tree/main/07%20-%20API's)| Trabalho de finalização computação I
+[08 - Extras](https://github.com/epedropaulo/MyPython/tree/main/08%20-%20Extras)| Trabalho de finalização computação I
