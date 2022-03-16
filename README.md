@@ -9,7 +9,7 @@ Também estou usando o conteúdo do Curso em video. Veja [aqui](https://www.yout
 ### Divisão entre os níveis e diferentes estágios do conhecimento em python que adquiri.
 Nome | Descrição 
 :---------: | :------: 
-[01 - Fundamentos](https://github.com/epedropaulo/MyPython/tree/main/01%20-%20Fundamentos)| Tipos primitivos, saidas de dados, operadores numéricos, módulos, strings, condições 
+[01 - Fundamentos](https://github.com/epedropaulo/MyPython/tree/main/01%20-%20Fundamentos)| Tipos primitivos, saidas de dados, operadores numéricos, módulos, strings, condicionais
 [02 - Estruturas de controle](https://github.com/epedropaulo/MyPython/tree/main/02%20-%20Estruturas%20de%20controle)| Condições aninhadas, Estruturas de repetições 
 [03 - Estruturas compostas](https://github.com/epedropaulo/MyPython/tree/main/03%20-%20Estruturas%20Compostas)| Tuplas, Listas, Dicionários, funções, tratamento de erros, módulos + complexos, pacotes 
 [04 - Instruções simples, manipulação de arquivos](https://github.com/epedropaulo/MyPython/tree/main/04%20-%20Instruções%20simples%2C%20manipulando%20arquivos)| assert, del, pass, raise, nonlocal, global, manipulação básica de arquivos
