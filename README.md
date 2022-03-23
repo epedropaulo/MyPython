@@ -5,7 +5,7 @@
 Estou usando o Roadmap oferecido pela comunidade Dev Heart, [aqui](https://github.com/wendrewdevelop/python4noobs).
 Também usei o conteúdo do Curso em video, [aqui](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0).
 
-**Repositório em construção. concluído 06/08 pastas.**
+**Repositório em construção! 06/08 pastas.**
 
 ### Divisão entre os níveis e diferentes estágios do conhecimento em python que adquiri.
 Nome | Descrição 
