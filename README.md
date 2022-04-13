@@ -4,6 +4,7 @@
 
 Estou usando o Roadmap oferecido pela comunidade Dev Heart, [aqui](https://github.com/wendrewdevelop/python4noobs).
 Também usei o conteúdo do Curso em video, [aqui](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0).
+A parte sobre as bibliotecas mais complexas, como tkinter, numpy, matplotlib, scipy e pandas, foram vistas no curso de COMPUTAÇÃO 2, [ementa do curso](https://github.com/epedropaulo/MyPython/blob/main/09%20-%20Extras/Ementa%20Comp%202%20UFRJ.md)
 
 **Repositório em construção! 06/08 pastas.**
 
@@ -18,4 +19,4 @@ Nome | Descrição
 [06 - Lambda, map, filter](https://github.com/epedropaulo/MyPython/tree/main/06%20-%20Função%20Lambda)| Built-in functions lambda, map, filter
 [07 - Biblioteca matplotlib, gráficos](https://github.com/epedropaulo/MyPython/tree/main/07%20-%20Biblioteca%20matplotlib%2C%20gráficos)| Biblioteca matplotlib, construção de gráficos, linhas, barras, pizzas e gráficos de dispersão
 [08 - API's](https://github.com/epedropaulo/MyPython/tree/main/08%20-%20API's)| Em construção
-[09 - Extras](https://github.com/epedropaulo/MyPython/tree/main/09%20-%20Extras/Trabalho%20final%20comp.%20I)| Trabalho de finalização computação I, artigos lidos
+[09 - Extras](https://github.com/epedropaulo/MyPython/tree/main/09%20-%20Extras/Trabalho%20final%20comp.%20I)| Trabalho de finalização computação I.
