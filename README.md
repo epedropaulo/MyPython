@@ -6,7 +6,7 @@ A parte básica das pastas 01, 02 e 03, usei o conteúdo do [Curso em video](htt
 
 Também estou usando o Roadmap oferecido pela comunidade [Dev Heart](https://github.com/wendrewdevelop/python4noobs).
 
-A parte sobre POO e as bibliotecas mais complexas, como tkinter, numpy, matplotlib, scipy e pandas, foram vistas no curso de COMPUTAÇÃO 2, [ementa do curso](https://github.com/epedropaulo/MyPython/blob/main/09%20-%20Extras/Ementa%20Comp%202%20UFRJ.md)
+A parte sobre POO e as bibliotecas mais complexas, como tkinter, numpy, matplotlib, scipy e pandas, foram vistas no curso de COMPUTAÇÃO 2, [ementa do curso](https://github.com/epedropaulo/MyPython/blob/main/09%20-%20Extras/Ementa%20Comp%202%20UFRJ.md).
 
 **Repositório em construção! 06/08 pastas.**
 
