@@ -1,3 +1,4 @@
+from matplotlib import style
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -75,5 +76,28 @@ def line():
     ax.set_xticks(range(0, 101, 20))
     ax.set_yticks(range(0, 201, 50))
     
+    plt.legend()
+    plt.show()
+
+
+def last():
+    """Desenha o gráfico representado no último exercício.
+    none -> none"""
+
+    fig, ax = plt.subplots()
+    
+    x = np.array([1, 4, 5, 6, 7])
+    y = np.array([2, 6, 3, 6, 3])
+
+    ax.plot(x, y, '-.r')
+    ax.plot(x, y, 'bo')
+
+    ax.set_xticks(range(1, 9, 1))
+    ax.set_yticks(range(1, 9, 1))
+
+    ax.set_title('Display Marker')
+    plt.xlabel('x - axis')
+    plt.ylabel('y - axis')
+
     plt.legend()
     plt.show()
