@@ -90,14 +90,14 @@ def sample(n):
     """A função divide o intervalo [0, 1] em n intervalos de mesmo comprimento. Depois sortea um valor e verifica em qual intervalo
     está esse valor sorteado.
     int -> int"""
-    q = np.linspace(0, 1, n)
+    q = [0.1]*10
 
     qcumsoma = np.cumsum(q) # O cumsum é necessário para facilitar a comparação do número sorteado com o intervalo.
     
     valor = uniform(0, 1)   # Sorteando
 
-    intervalo = qcumsoma[qcumsoma >= valor][0]  # Ele verifica em quais intervalos o valor está contido, e seleciona o primeiro intervalo.
+    intervalo = np.where(qcumsoma >= valor)[0][0]  # Ele verifica em quais intervalos o valor está contido, e seleciona o primeiro intervalo.
 
-    x = np.searchsorted(q, intervalo)   # Descobrimos o índice desse intervalo e o retornamos.
+    return qcumsoma, valor, intervalo
 
-    return x
+print(sample(8)[2])
