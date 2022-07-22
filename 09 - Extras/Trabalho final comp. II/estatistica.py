@@ -2,8 +2,9 @@
 
 
 class Estatistica:
-    """Dado um arquivo de estatísticas as analisará e as exibirá no tkinter"""
+    """Classe que tratará das estatística do jogo."""
 
-    def plotar(nBlocos, pontos):
-        """Recebe o número de blocos e os pontos e cria um gráfico, onde nblocos e o eixo x e os pontos o y."""
+    def plotar():
+        """Recebe as jogadas feitas na partida e plota um gráfico de quantos movimento pra cada lado
+        foi feito em um dado save. Aparece uma janela do matplotlib."""
         pass
