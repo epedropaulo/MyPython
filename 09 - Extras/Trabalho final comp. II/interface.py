@@ -1,35 +1,49 @@
-# https://pt.stackoverflow.com/questions/519070/como-transitar-entre-janelas múltiplas janelas tkinter
-# Telas: Menu principal, jogo, pause, perdeu, estatística.
+"""Arquivo que conterá as classes que cuidarão da interface mostrada para o usuário, e também
+da interação com o mesmo.
 
-"""Cuidará da interface e da interação com o usuário."""
+Será feito para o cmd do windows."""
 
-class BotaoPadrao:
-    """Essa será a classe principal para formar os botões: todos tem um texto, uma função, um tamanho, 
-        uma certa cor, fonte, animação de passar o mouse por cima, etc... """
-    def __init__(self, texto):
-        self.texto = texto
+import os
 
-    def funcao(self):
-        """Será a função que esse certo botão fará"""
+from msvcrt import getch
+
+class Menu:
+    """Classe que representará os botões.
+    Atributos: botões(um array de strings). #Quando estiver no primeiro loop a primeira opção estará selecionada
+    Método: função(a função do botão.)"""
+
+    def __init__(self):
+        """"""
         pass
 
+    def __str__(self):
+        """Muda como é mostrado quando da print nessa classe"""
+        pass
 
-class Telas:
-    """Como haverá telas 'parecidas', um menu principal, um menu de pause e onde o jogo rodará.
-        Acho interessante que essas telas compartilhem alguns atributos semelhantes.
-        Atributos: nome das telas, o tamanho, se o tamanho é mutável
-        Métodos: Gera uma nova tela"""
+    def entrada(self):
+        """Chama o getch e o transforma em algo mais 'palpável'.
+        none -> str"""
+        pass
 
-    def __init__(self, nome):
-        # é possível criar uma tela ?
+    def detecta(self):
+        """Detecta em qual opção está selecionada. #Vendo em qual atributo-texto está a 'seta'.
+        Retorna a opção selecionada, que depende em qual está selecionado."""
+        pass
+
+    def selecao(self, tecla):
+        """Recebe uma str, e modifica a seleção da opção no momento."""
         pass
     
-    def exibe_matriz(MatrizTela):
-        """Recebe uma matriz tela e a exibe na tela
-        MatrizTela -> none"""
+    def tela_pause(self, jogada):
+        """Recebe a tecla apertada e caso seja a tecla que provoca o pause. Mostra a tela de pause
+        str -> none"""
         pass
 
-def qual_tecla():
-    """Percebe qual tecla, o usuário respondeu e retorna sua representação como um número inteiro.
-    evento -> int"""
-    pass
+    def tela_pos_partida(self, situacao):
+        """Recebe a situacao do jogo e mostra a tela ou de vitória ou de derrota.
+        str -> none"""
+        pass
+    
+    def comeca(self):
+        """É a função do botão começa, começa um novo jogo"""
+        pass
