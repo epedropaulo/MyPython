@@ -10,7 +10,8 @@ class Arquivos:
         Array, list-> csv"""
         pass
 
-    def leitura_carregar_save(arquivo):
-        """Dado um arquivo csv de save do jogo, retorna as informações para carregar o jogo.
-        csv -> Array, list"""
+    def leitura_carregar_save():
+        """Dentro deste método pede ao usuário digitar o nome do arquivo, 
+        retorna as informações para carregar o jogo.(todos os saves devem estar dentro da pasta 'saves').
+        none -> Array, list"""
         pass
