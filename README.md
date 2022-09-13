@@ -8,7 +8,7 @@ Também estou usando o Roadmap oferecido pela comunidade [Dev Heart](https://git
 
 A parte sobre POO e as bibliotecas mais complexas, como tkinter, numpy, matplotlib, scipy e pandas, foram vistas no curso de COMPUTAÇÃO 2, [ementa do curso](https://github.com/epedropaulo/MyPython/blob/main/09%20-%20Extras/Ementa%20Comp%202%20UFRJ.md).
 
-**Repositório em construção! 06/08 pastas.**
+**Repositório em construção! 07/08 pastas.**
 
 ### Divisão entre os níveis e diferentes estágios do conhecimento em python que adquiri.
 Nome | Descrição
