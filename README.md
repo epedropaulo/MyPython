@@ -8,8 +8,6 @@ Também estou usando o Roadmap oferecido pela comunidade [Dev Heart](https://git
 
 A parte sobre POO e as bibliotecas mais complexas, como tkinter, numpy, matplotlib, scipy e pandas, foram vistas no curso de COMPUTAÇÃO 2, [ementa do curso](https://github.com/epedropaulo/MyPython/blob/main/09%20-%20Extras/Ementa%20Comp%202%20UFRJ.md).
 
-**Repositório em construção! 07/08 pastas.**
-
 ### Divisão entre os níveis e diferentes estágios do conhecimento em python que adquiri.
 Nome | Descrição
 :---------: | :------:
@@ -21,4 +19,5 @@ Nome | Descrição
 [06 - Lambda, map, filter](https://github.com/epedropaulo/MyPython/tree/main/06%20-%20Função%20Lambda)| Built-in functions lambda, map, filter
 [07 - Matplotlib, numpy, tkinter, pandas](https://github.com/epedropaulo/MyPython/tree/main/07%20-%20Matplotlib%2C%20Numpy%2C%20Tkinter%2C%20Pandas)| Matplotlib, numpy, tkinter, pandas.
 [08 - API's](https://github.com/epedropaulo/MyPython/tree/main/08%20-%20API's)| Em construção
-[09 - Extras](https://github.com/epedropaulo/MyPython/tree/main/09%20-%20Extras)| listas de computação II (classes, manipulação de arquivos e bibliotecas voltadas pra dados.).
+[09 - Extras](https://github.com/epedropaulo/MyPython/tree/main/09%20-%20Extras)| listas de computação II (classes, manipulação de arquivos e bibliotecas voltadas pra dados).
+[10 - Computação Cientifíca](https://github.com/epedropaulo/MyPython/tree/main/10%20-%20Computação%20científica)| Cálculo numérico, métodos matemáticos no computador. Aproximações de funções.
