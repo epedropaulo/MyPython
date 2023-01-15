@@ -1,6 +1,7 @@
 <h1 style="text-align: center;">
     Básico
 </h1>
+
 ## O conteúdo dessa pasta se refere ao "básico" em python
 
 Todo conteúdo mostrado aqui pode ser visto em [Numerical analysis](link), com exemplos mais completos e complexos.
